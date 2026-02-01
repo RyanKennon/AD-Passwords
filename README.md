@@ -34,8 +34,8 @@ This project focuses on enforcing password security and managing account lockout
 ### Lab Environment
 
 - **Platform:** Microsoft Azure
-- **Domain Controller:** Windows Server (Azure VM)
-- **Client VM:** Windows 10 (Azure VM)
+- **Domain Controller:** Windows Server 2022 Datacenter
+- **Client Machine:** Windows 10 Pro
 - [Setup an Active Directory Domain](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
 - [Setup Users in Active Directory](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
 
